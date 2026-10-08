@@ -1,1 +1,2 @@
-print("desk notes")
+print("Desk notes")
+print("Welcome to my notes!")
